@@ -1,0 +1,11 @@
+.color-list {
+    list-style: none;
+    position: relative;
+    top: 130px;
+    transform: translateX(-15px);
+}
+
+.list-item {
+    color: black;
+    font-weight: bold;
+}

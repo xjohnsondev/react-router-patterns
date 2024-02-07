@@ -1,0 +1,34 @@
+{
+    "dogs": [
+        {
+          "name": "Whiskey",
+          "age": 5,
+          "src": "https://thegabber.com/wp-content/uploads/2021/01/Whiskey_Pet-Pal-Animal-Shelter.jpeg",
+          "facts": [
+            "Whiskey loves eating popcorn.",
+            "Whiskey is a terrible guard dog.",
+            "Whiskey wants to cuddle with you!"
+          ]
+        },
+        {
+          "name": "Duke",
+          "age": 3,
+          "src": "https://cdn.britannica.com/78/232778-050-D3701AB1/English-bulldog-dog.jpg?w=400&h=300&c=crop",
+          "facts": [
+            "Duke believes that ball is life.",
+            "Duke likes snow.",
+            "Duke enjoys pawing other dogs."
+          ]
+        },
+        {
+          "name": "Perry",
+          "age": 4,
+          "src": "https://www.thesprucepets.com/thmb/NdfzNIolSUe2nSfRmjmQR_Nh9qI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Akita-GettyImages-588622984-533e955df9214301a56b4c0689b32114-b756891eac2445059cbd59430dbff7e2.jpeg",
+          "facts": [
+            "Perry loves all humans.",
+            "Perry demolishes all snacks.",
+            "Perry hates the rain."
+          ]
+        }
+      ]
+  }
